@@ -1,0 +1,5 @@
+manish;singh;male;it;30000;9630151942;jabalpur
+kunal;singh;male;tech;18000;9630158502;indore
+komal;pandey;female;it;30000;9620151942;delhi
+mohan;kumar;male;tech;18000;9888001523;mumbai
+avni;shetty;female;tech;18000;9821367715;chennai
